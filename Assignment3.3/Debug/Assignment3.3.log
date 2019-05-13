@@ -1,0 +1,22 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Assignment3.3.cpp
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(956): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(961): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(967): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(1027): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(1196): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(1213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(1226): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(1243): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(1251): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(1259): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(1274): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(1289): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(1304): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(1755): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(1880): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(1896): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(717): warning C4101: 'checkPointLegRadius': unreferenced local variable
+c:\users\danny\desktop\ayyyyyyyy random shit\assignment 3\assignment3.3\assignment3.3.cpp(328): warning C4101: 'dummyCollision': unreferenced local variable
+  Assignment3.3.vcxproj -> C:\Users\danny\Desktop\Ayyyyyyyy Random Shit\Assignment 3\Assignment3.3\\Assignment3.3Debug.exe
+  Copying DLLs & shaders...
